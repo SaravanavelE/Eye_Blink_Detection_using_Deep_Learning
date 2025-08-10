@@ -1,0 +1,53 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);
+}
+
+h1 {
+    color: #00e5ff;
+}
+
+input[type="file"] {
+    margin: 15px 0;
+    background: #2b2b2b;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+}
+
+button {
+    padding: 10px 20px;
+    background: #00e5ff;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #00b8d4;
+}
+
+.output {
+    margin-top: 20px;
+    background: #2b2b2b;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.report {
+    font-weight: bold;
+}

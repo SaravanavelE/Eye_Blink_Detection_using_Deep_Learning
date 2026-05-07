@@ -50,7 +50,7 @@ Edit
 ## 🚀 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/eye-blink-detection.git
+git clone https://github.com/SaravanavelE/eye_blink_detection_using_deep_learning.git
 
 # Navigate to the project folder
 cd eye-blink-detection
